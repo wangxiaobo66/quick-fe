@@ -1,7 +1,7 @@
 /**
  * Created by joker.wang on 2017/6/26.
  */
-
+const gulp = require('gulp');
 const path = require('path');
 const watch = require('gulp-watch');
 const browserSync = require('browser-sync');
