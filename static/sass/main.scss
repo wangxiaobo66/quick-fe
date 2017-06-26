@@ -1,0 +1,11 @@
+@import "lib/normailize";
+body{
+  border:1px red solid;
+  background-color: aliceblue;
+}
+h1{
+  background: url("../images/US.png") 0 0 no-repeat;
+  border-radius: 5px;
+  transform:rotate(7deg);
+  display: flex;
+}
